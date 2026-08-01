@@ -28,7 +28,7 @@ Python provides three main conditional statements:<br>
 - Python
 ## Project Structure
 Smart-ATM-System/<br>
-|- main.py
+|- main.py<br>
 |- README.md
 ## How to Run
 1. Close the repository.<br>
