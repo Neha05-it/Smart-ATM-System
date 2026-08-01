@@ -10,10 +10,10 @@ The Smart ATM System is a beginner-friendly Python project that simulates the ba
 1. Operators<br>
 Operators are special symbols used to perform operations on variables and values.<br>
 Arithmetic Operators<br>
-
-Operator  |   Description  |   Example
-----------|----------------|-----------
-   +      |     Addition   |   a + b
-   -      |   Subtraction  |   a - b
-   *      | Multiplication |   a * b
-   /      |    Division    |   a / b
+- + -> Addition
+- - -> Subtraction
+- * -> Multiplication
+- / -> Division
+- % -> Modulus (Remainder)
+- // -> Floor Division
+- ** -> Exponent(Power>
